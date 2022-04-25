@@ -1,0 +1,46 @@
+<svg width="40px" height="40px" viewBox="2.4 2.4 45 45" xmlns="http://www.w3.org/2000/svg"> 
+<!-- 3 3 44 44 -->
+    <defs> 
+        <path id="line" d="m0 0 v0 -5" stroke="black" stroke-width="3" stroke-linecap="round"/>
+    </defs>
+    <!-- <use x="25" y="10" href="#line"/> -->
+    <path stroke="black" stroke-width="3" stroke-linecap="round" d="M25 10 v0 -5"/>
+    <path stroke="black" stroke-width="3" stroke-linecap="round" d="M25 45 v0 -5"/>
+    <circle cx="25" cy="25" r="15" fill="gray"/>
+    <path stroke="black" stroke-width="3" stroke-linecap="round" d="M17.5 17.5 l-5 -5"/>
+    <path stroke="black" stroke-width="3" stroke-linecap="round" d="M32.5 17.5 l5 -5"/>
+    <path stroke="black" stroke-width="3" stroke-linecap="round" d="M17.5 32.5 l-5 5"/>
+    <path stroke="black" stroke-width="3" stroke-linecap="round" d="M32.5 32.5 l5 5"/>
+
+    <path stroke="black" stroke-width="3" stroke-linecap="round" d="M12.5 25 l-7 0"/>
+    <path stroke="black" stroke-width="3" stroke-linecap="round" d="M25 25 l0 0"/>
+    <path stroke="black" stroke-width="3" stroke-linecap="round" d="M37.5 25 l7 0"/>
+    
+    <!-- <path id="line" d="m15 15 v0 -5" stroke="black" stroke-width="3" stroke-linecap="round" transform="rotate(45)"/> -->
+    <!-- <use x="0" y="0" href="#line" transform="rotate(90)"/> -->
+    
+    <!-- <g transform="translate(0,-1)">
+    <line x1="15" y1="20" x2="15" y2="10" stroke="black" stroke-width="3" stroke-linecap="round" />
+    <line x1="12" y1="22.5" x2="8" y2="16.5" stroke="black" stroke-width="3" stroke-linecap="round" />
+    <line x1="18" y1="22.5" x2="22" y2="16.5" stroke="black" stroke-width="3" stroke-linecap="round" />
+    <path fill="gray" d="
+        M0 30 A 1 1, 0, 0, 1, 30 30 l0 5, -30 0, 0 -5 Z
+        
+    "/>
+    <line x1="9" y1="22.5" x2="4" y2="18" stroke="black" stroke-width="3" stroke-linecap="round" />
+    <line x1="21" y1="22.5" x2="26" y2="18" stroke="black" stroke-width="3" stroke-linecap="round" />
+    <line x1="15" y1="30" x2="15" y2="30" stroke="black" stroke-width="3" stroke-linecap="round" />
+    <line x1="0" y1="30" x2="0" y2="30" stroke="black" stroke-width="3" stroke-linecap="round" />
+    <line x1="8" y1="30" x2="4" y2="30" stroke="black" stroke-width="3" stroke-linecap="round" />
+    <line x1="22" y1="30" x2="26" y2="30" stroke="black" stroke-width="3" stroke-linecap="round" />
+    <line x1="30" y1="30" x2="30" y2="30" stroke="black" stroke-width="3" stroke-linecap="round" />
+    </g>
+    <path fill="blue"
+        d="
+        M-2.5 28.5
+        q2.5 -2, 5 0
+        t5 0, 5 0, 5 0, 5 0, 5 0, 5 0
+        l0 5, -35 0, 0 -5
+        "
+    /> -->
+</svg>

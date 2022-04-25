@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="author" content="Gębal Bartosz">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Saper</title>
+    <link rel="shortcut icon" href="rsc/rangeMineThumb.svg" type="image/x-icon">
+    <link rel="stylesheet" href="style.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src='https://unpkg.com/panzoom@9.4.0/dist/panzoom.min.js'></script>
+
+</head>
+<body class="grid-flow">
+    <div class="[ menu ] [ flow ] [ border padding-20 bg-light font-200 ]">
+        <div class="[ menu__title ] [ border padding-20 ]">
+            <h1>Minesweeper</h1>
+        </div>
+       
+
+        <div class="[ settings ] [ flow ] [ border padding-20 ]" data-type="inner">
+            <div>
+                <p id="rows__display" class="menu__display">Rows: 20</p>
+                <input class="border" type="range" id="rows" min="10" max="30" value="20">
+            </div>
+            <div>
+                <p id="cols__display" class="menu__display">Cols: 20</p>
+                <input class="border" type="range" id="cols" min="10" max="30" value="20">
+            </div>
+            <div>
+                <p id="mines__display" class="menu__display">Mines: 65</p>
+                <input class="border" type="range" id="mines" min="10" max="120" value="65"><br>
+            </div>
+        </div>
+        <button class="[ menu__start ] [ border pointer padding-10 ]">Start</button>
+    </div>
+
+    <div class="[ main ] [ flow ] [ bg-light border padding-20 ]">
+        <div class="[ tab ] [ flexrow-flow ] [ border ]" data-type="inner">
+            <p class="tab__exit pointer">Exit</p>   
+            <p class="tab__restart pointer">Restart</p>
+            <p class="tab__mineCounter">M: 0</p>  
+            <p class="tab__timer">T: 0</p>
+        </div>
+
+        <div class="wrapper border" data-type="inner">
+            <div class="[ gameboard ] [ ff-game ]" >
+            
+            </div>
+        </div>
+    </div>
+    <dialog class="modal border" id="end">
+        <p class="modal__msg"></p>
+        <p class="modal__exit pointer">Exit</p>
+        <p class="modal__restart pointer">Restart</p>
+        <!-- <div class="modal__view border"></div> -->
+    </dialog>
+</body>
+<script src="script.js"></script>
+</html>

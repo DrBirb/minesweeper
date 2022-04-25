@@ -1,0 +1,49 @@
+<svg  width="40px" height="40px" viewBox="20 20 60 60" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"> 
+    
+    <circle cx="50" cy="50" r="25" fill="rgb(95, 95, 95)" stroke="rgb(15, 15, 15)" stroke-width="2.5"/>
+    <line x1="25" x2="75" y1="50" y2="50" stroke="rgb(15, 15, 15)" stroke-width="2"/>
+    <circle style="fill: #ce5e5e; stroke: rgb(0, 0, 0); stroke-width:1.5;" cx="50" cy="50" r="6"></circle>
+
+<g style="" transform="matrix(0.572931, 0.819609, -0.819609, 0.572931, 62.25, -19.625)">
+  <path style="stroke-width: 2; stroke: rgb(95, 95, 95);" d="M 44.5 27.952 L 44.5 24.7"></path>
+  <path style="stroke-width: 2; stroke: rgb(95, 95, 95);" d="M 55.5 27.952 L 55.5 24.7"></path>
+  <path style="stroke: rgb(15, 15, 15); stroke-width: 10.5px;" d="M 50 32.5 L 50 25"></path>
+  <ellipse style="fill: rgb(15, 15, 15); stroke: rgb(15, 15, 15); stroke-width: 0.5" cx="50" cy="32.5" rx="5" ry="4"></ellipse>
+  <ellipse style="fill: #ce5e5e; stroke: rgb(15, 15, 15); stroke-width: 1" cx="50" cy="25" rx="5" ry="3"></ellipse>
+</g>
+<g style="" transform="matrix(0.572931, -0.819609, -0.819609, -0.572931, 62.25, 119.625)">
+  <path style="stroke-width: 2; stroke: rgb(95, 95, 95);" d="M 44.5 27.952 L 44.5 24.7"></path>
+  <path style="stroke-width: 2; stroke: rgb(95, 95, 95);" d="M 55.5 27.952 L 55.5 24.7"></path>
+  <path style="stroke: rgb(15, 15, 15); stroke-width: 10.5px;" d="M 50 32.5 L 50 25"></path>
+  <ellipse style="fill: rgb(15, 15, 15); stroke: rgb(15, 15, 15); stroke-width: 0.5" cx="50" cy="32.5" rx="5" ry="4"></ellipse>
+  <ellipse style="fill: #ce5e5e; stroke: rgb(15, 15, 15); stroke-width: 1" cx="50" cy="25" rx="5" ry="3"></ellipse>
+</g>
+<g style="" transform="matrix(-0.572931, 0.819609, 0.819609, 0.572931, 37.75, -19.625)">
+  <path style="stroke-width: 2; stroke: rgb(95, 95, 95);" d="M 44.5 27.952 L 44.5 24.7"></path>
+  <path style="stroke-width: 2; stroke: rgb(95, 95, 95);" d="M 55.5 27.952 L 55.5 24.7"></path>
+  <path style="stroke: rgb(15, 15, 15); stroke-width: 10.5px;" d="M 50 32.5 L 50 25"></path>
+  <ellipse style="fill: rgb(15, 15, 15); stroke: rgb(15, 15, 15); stroke-width: 0.5" cx="50" cy="32.5" rx="5" ry="4"></ellipse>
+  <ellipse style="fill: #ce5e5e; stroke: rgb(15, 15, 15); stroke-width: 1" cx="50" cy="25" rx="5" ry="3"></ellipse>
+</g>
+<g style="" transform="matrix(-0.572931, -0.819609, 0.819609, -0.572931, 37.75, 119.625)">
+  <path style="stroke-width: 2; stroke: rgb(95, 95, 95);" d="M 44.5 27.952 L 44.5 24.7"></path>
+  <path style="stroke-width: 2; stroke: rgb(95, 95, 95);" d="M 55.5 27.952 L 55.5 24.7"></path>
+  <path style="stroke: rgb(15, 15, 15); stroke-width: 10.5px;" d="M 50 32.5 L 50 25"></path>
+  <ellipse style="fill: rgb(15, 15, 15); stroke: rgb(15, 15, 15); stroke-width: 0.5" cx="50" cy="32.5" rx="5" ry="4"></ellipse>
+  <ellipse style="fill: #ce5e5e; stroke: rgb(15, 15, 15); stroke-width: 1" cx="50" cy="25" rx="5" ry="3"></ellipse>
+</g>
+<g style="" transform="matrix(1, 0, 0, -1, 0, 100)">
+  <path style="stroke-width: 2; stroke: rgb(95, 95, 95);" d="M 44.5 27.952 L 44.5 24.7"></path>
+  <path style="stroke-width: 2; stroke: rgb(95, 95, 95);" d="M 55.5 27.952 L 55.5 24.7"></path>
+  <path style="stroke: rgb(15, 15, 15); stroke-width: 10.5px;" d="M 50 32.5 L 50 25"></path>
+  <ellipse style="fill: rgb(15, 15, 15); stroke: rgb(15, 15, 15); stroke-width: 0.5" cx="50" cy="32.5" rx="5" ry="4"></ellipse>
+  <ellipse style="fill: #ce5e5e; stroke: rgb(15, 15, 15); stroke-width: 1" cx="50" cy="25" rx="5" ry="3"></ellipse>
+</g>
+<g style="">
+  <path style="stroke-width: 2; stroke: rgb(95, 95, 95);" d="M 44.5 27.952 L 44.5 24.7"></path>
+  <path style="stroke-width: 2; stroke: rgb(95, 95, 95);" d="M 55.5 27.952 L 55.5 24.7"></path>
+  <path style="stroke: rgb(15, 15, 15); stroke-width: 10.5px;" d="M 50 32.5 L 50 25"></path>
+  <ellipse style="fill: rgb(15, 15, 15); stroke: rgb(15, 15, 15); stroke-width: 0.5" cx="50" cy="32.5" rx="5" ry="4"></ellipse>
+  <ellipse style="fill: #ce5e5e; stroke: rgb(15, 15, 15); stroke-width: 1" cx="50" cy="25" rx="5" ry="3"></ellipse>
+</g>
+</svg>

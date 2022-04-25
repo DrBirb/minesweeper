@@ -1,0 +1,17 @@
+<svg width="24px" height="24px" viewBox="0 0 50 50" xmlns="http://www.w3.org/2000/svg">
+    <!-- <path fill="red" stroke="black" stroke-width="1" d="
+        M25 2 C 31.25 -2, 37.5 4, 50 2 l0 15 C 37.5 19, 31.25 13, 25 17
+    "/> -->
+    <line x1="25" y1="42" x2="25" y2="2" stroke="black" stroke-width="4" stroke-linecap="round"/>
+    <path fill="red" stroke="black" stroke-width="1" d="
+        M25 2 
+        h 12.5
+        v 32.5
+        l -12.5 -5, -12.5, 5
+        v -32.5
+        z
+    "/>
+    <circle cx="25" cy="44" r="8" fill="gray" stroke="black" stroke-width="2"/>
+    <rect x="7" y="41" width="36" height="4" fill="gray" stroke="black" stroke-width="2"/>
+    <rect x="1" y="45" width="48" height="4" fill="gray" stroke="black" stroke-width="2"/>
+</svg>
